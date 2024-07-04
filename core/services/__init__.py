@@ -1,0 +1,1 @@
+from .upload_avatar_service import upload_avatar
